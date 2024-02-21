@@ -1,5 +1,5 @@
 vless://91c2b7dc-12e0-4639-9dbd-037e6f3e9fa6@132.145.208.198:443?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.debian.nl#1-esfand-ora
-vless://ccc5dc9c-0839-4a52-a145-182a741123cf@129.213.215.213:443?security=reality&encryption=none&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sni.axe.ir#30-bahman-orb
-vless://32a0cdaf-ad41-4e04-fe06-eaaafd0318dc@129.213.90.59:443?type=tcp&security=reality&sni=www.cib.com.cn&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&flow=xtls-rprx-vision&fp=chrome#30-bahman-orz
+vless://ccc5dc9c-0839-4a52-a145-182a741123cf@150.136.31.116:443?security=reality&encryption=none&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sni.axe.ir#2-esfand-orb
+vless://32a0cdaf-ad41-4e04-fe06-eaaafd0318dc@132.145.198.100:443?type=tcp&security=reality&sni=www.cib.com.cn&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&flow=xtls-rprx-vision&fp=chrome#2-esfand-orz
 vless://2c333486-99d0-41a9-f204-fb9dcc70318d@[2a03:4000:4c:22:d899:cdff:fe6d:66e0]:15085?type=tcp&security=reality&sni=www.speedtest.net&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&flow=&fp=chrome#ncb-ipv6
 # For Shahed
