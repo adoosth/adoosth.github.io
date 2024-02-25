@@ -6,6 +6,6 @@ ip_dict = {
     'ora-date': '4-esfand',
     'orb-ip': '150.136.160.133',
     'orb-date': '3-esfand',
-    'orz-ip': '129.213.93.251',
-    'orz-date': '3-esfand',
+    'orz-ip': '129.213.147.83',
+    'orz-date': '6-esfand',
 }
